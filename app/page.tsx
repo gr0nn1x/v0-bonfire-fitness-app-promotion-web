@@ -27,7 +27,13 @@ export default function LandingPage() {
                 Tvůj nekompromisní tréninkový deník
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Zahoď papír a tužku. Bonfire Fitness je moderní, rychlá a temně laděná aplikace navržená tak, aby tě v gymu nezdržovala, ale hnala dopředu.
+                Jedná se o můj osobní projekt, jakýkoliv feedback je plně vítán, !!! ještě jedou z důvodu bezpečnosti, nejlépe použijte naprosto unikátní heslo které nikde jinde nemáte, nejlépe i email (klidně smyšlený)!!!
+              </p>
+              <p>Za projektem stojí František Tesařík</p>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+                Kdo Jsem?
+                <p>-Hlavně nadšenec do Silového Trojboje</p>
+                <p>-Jako bonus studuju IT na vysoké škole</p>
               </p>
             </div>
 
