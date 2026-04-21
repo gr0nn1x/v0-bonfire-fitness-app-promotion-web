@@ -209,7 +209,7 @@ export default function LandingPage() {
 
 function FeatureCard({ icon, title, description }: { icon: React.ReactNode; title: string; description: string }) {
   return (
-    <Card className="bg-card hover:bg-card/80 transition-colors">
+    <Card className="bg-card border-border hover:border-primary/50 transition-colors">
       <CardContent className="p-6 space-y-4">
         <div className="text-primary">{icon}</div>
         <h3 className="text-xl font-semibold">{title}</h3>
