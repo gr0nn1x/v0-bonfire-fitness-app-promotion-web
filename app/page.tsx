@@ -35,6 +35,10 @@ export default function LandingPage() {
                 <p>-Hlavně nadšenec do Silového Trojboje</p>
                 <p>-Jako bonus studuju IT na vysoké škole</p>
               </p>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+
+                <h2>POZOR PRO IOS POUZE WEBOVÁ VERZE</h2>
+              </p>
             </div>
 
             {/* Platform Badges */}
