@@ -24,7 +24,8 @@ export default function LandingPage() {
                 <span className="text-primary">Bonfire</span> Fitness
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground">
-                Tvůj nekompromisní tréninkový deník
+                Tvůj nekompromisní tréninkový deník - Last Update-23.4
+                <p>ve Webové verzi jsou aktualizace automatické, při android verzi prosím reinstalujte</p>
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Jedná se o můj osobní projekt, jakýkoliv feedback je plně vítán, !!! ještě jedou z důvodu bezpečnosti, nejlépe použijte naprosto unikátní heslo které nikde jinde nemáte, nejlépe i email (klidně smyšlený)!!!
